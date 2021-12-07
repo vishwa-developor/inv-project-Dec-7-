@@ -1,0 +1,14 @@
+.container{
+	margin: 20px auto;
+}
+label{
+	width: 100%;
+}
+.form-row{
+	margin: 20px 0;
+}
+.form-row input{
+	border-radius: 5px;
+	width: 80%;
+	height: 40px;
+}
